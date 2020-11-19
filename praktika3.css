@@ -1,0 +1,39 @@
+.kek{
+    margin-top: 100px;
+}
+.lol {
+    border-color:red;
+    border-style: dotted;
+    border-width: 1px;
+    border-radius: 8px;
+}
+.wow {
+    border-color: red;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 100px;
+    border-radius: 50%;
+}
+
+.help {
+    width: 330px;
+    height: 185px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border: 2px dotted red;
+    background-color: green;
+}
+
+.kartinka1 {
+    float: left;
+    margin: 0px 20px 20px 0px;
+}
+
+.kartinka2 {
+    float: right;
+    margin: 20px 0px 20px 20px;
+}
+
+.text p{
+    text-align: justify;
+}
